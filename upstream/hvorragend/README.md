@@ -12,6 +12,9 @@
 | [`cover_control_automation.yaml`](cover_control_automation.yaml) | [`blueprints/cover_control_automation_de.yaml`](../../blueprints/cover_control_automation_de.yaml) |
 
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
+
 # :information_source: Interne Bearbeitungsanleitung #
 
 ## 🔄 Ablauf bei einem Update
