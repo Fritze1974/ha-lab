@@ -1,0 +1,21 @@
+# Editor-/IDE-Dateien
+.vs/
+.vscode/
+
+# Geheimnisse
+secrets.yaml
+*.pem
+*.key
+.ssh/
+
+# Home-Assistant-Laufzeitdaten
+.storage/
+.cloud/
+home-assistant_v2.db*
+*.log*
+.HA_VERSION
+tts/
+deps/
+__pycache__/
+backups/
+www/community/
